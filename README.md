@@ -1,5 +1,11 @@
 ### Perry Werneck
 
+- 🔭 I’m currently working on pw3270, Udjat and a lot of other coding activities (Yes, I know I need more focus)
+- 🌱 I’m currently learning IOT, SUMA
+- 💬 Ask me about anything you want
+- 😄 Pronouns: He/Him
+
+
 [<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/javascript.svg" />]
 [<img align="left" alt="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/linux.svg" />]
 [<img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/c.svg" />]
@@ -9,25 +15,6 @@
 [<img align="left" alt="OpenSUSE" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/opensuse.svg" />]
 [<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/python.svg" />]
 
-
-<!--
-
-https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/apache.svg
-https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/buymeacoffee.svg
-https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/css3.svg
-https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/git.svg
-https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/gnome.svg
-https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/gnubash.svg
-https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/inkscape.svg
-https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/subversion.svg
-
--->
-
-
-- 🔭 I’m currently working on pw3270, Udjat and a lot of other coding activities (Yes, I know I need more focus)
-- 🌱 I’m currently learning IOT, SUMA
-- 💬 Ask me about anything you want
-- 😄 Pronouns: He/Him
 
 ### GitHub stats:
 
