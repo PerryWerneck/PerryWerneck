@@ -17,8 +17,7 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
-### Languages, Tools and systems:
+### Connect with me:
 
 <img align="left" alt="OpenSUSE" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/opensuse.svg" />
 <img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/c.svg" />
