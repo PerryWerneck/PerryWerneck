@@ -21,14 +21,14 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="OpenSUSE" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/opensuse.svg" />]
-[<img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/c.svg" />]
-[<img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/cplusplus.svg" />]
-[<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/javascript.svg" />]
-[<img align="left" alt="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/linux.svg" />]
-[<img align="left" alt="HTML-5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/html5.svg" />]
-[<img align="left" alt="LibreOffice" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/libreoffice.svg" />]
-[<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/python.svg" />]
+<img align="left" alt="OpenSUSE" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/opensuse.svg" />
+<img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/c.svg" />
+<img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/cplusplus.svg" />
+<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/javascript.svg" />
+<img align="left" alt="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/linux.svg" />
+<img align="left" alt="HTML-5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/html5.svg" />
+<img align="left" alt="LibreOffice" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/libreoffice.svg" />
+<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/python.svg" />
 
 
 <!-- 
