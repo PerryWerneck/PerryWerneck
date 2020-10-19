@@ -9,6 +9,7 @@
 
 ## My Skills
 
+- <img align="left" alt="OpenSUSE" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/opensuse.svg" />
 - <img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/c.svg" />
 - <img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/cplusplus.svg" />
 - <img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/javascript.svg" />
