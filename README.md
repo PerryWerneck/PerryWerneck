@@ -8,7 +8,8 @@
 
 ### GitHub stats:
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PerryWerneck&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PerryWerneck&show_icons=true&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=PerryWerneck&theme=blue-green)
 
 ### Connect with me:
 
