@@ -6,6 +6,9 @@
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/Him
 
+![Analytics](https://ga-beacon.appspot.com/UA-187546160-1/github/PerryWerneck)
+
+
 ### GitHub stats:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PerryWerneck&show_icons=true&theme=blue-green)
