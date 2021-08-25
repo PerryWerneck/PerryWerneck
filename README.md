@@ -6,7 +6,7 @@
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He
 
-Buy me a coffe: https://ko-fi.com/perrywerneck
+Buy me a coffee: https://ko-fi.com/perrywerneck
 
 ### GitHub stats:
 
