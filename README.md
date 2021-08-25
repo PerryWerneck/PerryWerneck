@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with a better way to store and distribute pw3270 for windows installers
 - 🌱 I’m currently learning IOT
 - 💬 Ask me about anything you want
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He
 
 Buy me a coffe: https://ko-fi.com/perrywerneck
 
