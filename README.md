@@ -23,7 +23,7 @@ Buy me a coffee: https://ko-fi.com/perrywerneck
 
 ### Languages, systems and Tools:
 
-[![OpenSUSE Badge]("https://img.shields.io/badge/-OpenSUSE-black?logo=opensuse&style=for-the-badge")]
+[![OpenSUSE Badge]("https://img.shields.io/badge/-OpenSUSE-black?logo=opensuse&style=flag-square")](https://www.suse.com/)
 <img align="left" alt="C" src="https://img.shields.io/badge/-C/C++-black?logo=C&style=for-the-badge" />
 <img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-black?logo=linux&style=for-the-badge" />
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=for-the-badge" />
