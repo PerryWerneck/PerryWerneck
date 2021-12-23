@@ -25,14 +25,13 @@ Buy me a coffee: https://ko-fi.com/perrywerneck
 
 ### Languages, systems and Tools:
 
-<img align="left" alt="OpenSUSE" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/opensuse.svg" />
-<img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/c.svg" />
-<img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/cplusplus.svg" />
-<img align="left" alt="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/linux.svg" />
-<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/javascript.svg" />
-<img align="left" alt="HTML-5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/html5.svg" />
-<img align="left" alt="LibreOffice" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/libreoffice.svg" />
-<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/python.svg" />
+<img align="left" alt="OpenSUSE" src="https://img.shields.io/badge/-OpenSUSE-black?logo=opensuse&style=for-the-badge" />
+<img align="left" alt="C" src="https://img.shields.io/badge/-C/C++-black?logo=C&style=for-the-badge" />
+<img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-black?logo=linux&style=for-the-badge" />
+<img align="left" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=for-the-badge" />
+<img align="left" alt="HTML-5" src="https://img.shields.io/badge/-HTML5-black?logo=html5&style=for-the-badge" />
+<img align="left" alt="LibreOffice" src="https://img.shields.io/badge/-LibreOffice-black?logo=libreoffice&style=for-the-badge" />
+<img align="left" alt="Python" src="https://img.shields.io/badge/-Python-black?logo=python&style=for-the-badge" />
 
 
 <!-- 
