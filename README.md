@@ -25,11 +25,11 @@ Buy me a coffee: https://ko-fi.com/perrywerneck
 
 ### Languages, systems and Tools:
 
-<img align="left" width="20%" alt="OpenSUSE" src="https://img.shields.io/badge/-OpenSUSE-black?logo=opensuse&style=for-the-badge" />
-<img align="left" width="20%" alt="C" src="https://img.shields.io/badge/-C/C++-black?logo=C&style=for-the-badge" />
-<img align="left" width="20%" alt="Linux" src="https://img.shields.io/badge/-Linux-black?logo=linux&style=for-the-badge" />
-<img align="left" width="20%" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=for-the-badge" />
-<img align="left" width="20%" alt="HTML-5" src="https://img.shields.io/badge/-HTML5-black?logo=html5&style=for-the-badge" />
-<img align="left" width="20%" alt="LibreOffice" src="https://img.shields.io/badge/-LibreOffice-black?logo=libreoffice&style=for-the-badge" />
-<img align="left" width="20%" alt="Python" src="https://img.shields.io/badge/-Python-black?logo=python&style=for-the-badge" />
+<img align="left" width="20%" alt="OpenSUSE" src="https://img.shields.io/badge/-OpenSUSE-black?logo=opensuse&style=for-the-badge" /><br />
+<img align="left" width="20%" alt="C" src="https://img.shields.io/badge/-C/C++-black?logo=C&style=for-the-badge" /><br />
+<img align="left" width="20%" alt="Linux" src="https://img.shields.io/badge/-Linux-black?logo=linux&style=for-the-badge" /><br />
+<img align="left" width="20%" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=for-the-badge" /><br />
+<img align="left" width="20%" alt="HTML-5" src="https://img.shields.io/badge/-HTML5-black?logo=html5&style=for-the-badge" /><br />
+<img align="left" width="20%" alt="LibreOffice" src="https://img.shields.io/badge/-LibreOffice-black?logo=libreoffice&style=for-the-badge" /><br />
+<img align="left" width="20%" alt="Python" src="https://img.shields.io/badge/-Python-black?logo=python&style=for-the-badge" /><br />
 
