@@ -16,10 +16,10 @@ Buy me a coffee: https://ko-fi.com/perrywerneck
 
 ### Connect with me:
 
-[<img align="left" alt="GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/gmail.svg" />][gmail]
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Linkedin Badge](https://img.shields.io/badge/-PerryWerneck-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/PerryWerneck/)](https://www.linkedin.com/in/PerryWerneck/) 
+[![Gmail Badge](https://img.shields.io/badge/-perry@werneck.eti.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:perry@werneck.eti.br)](mailto:perry@werneck.eti.br)
+[![Facebook Badge](https://img.shields.io/badge/-perry@werneck.eti.br-darkblue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/perry.werneck)](mailto:perry@werneck.eti.br)
+[![Twitter Badge](https://img.shields.io/badge/-perrywerneck-lightblue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/perrywerneck)](https://twitter.com/perrywerneck)
 
 <br />
 
