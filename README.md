@@ -18,7 +18,7 @@ Buy me a coffee: https://ko-fi.com/perrywerneck
 
 [![Linkedin Badge](https://img.shields.io/badge/-PerryWerneck-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/PerryWerneck/)](https://www.linkedin.com/in/PerryWerneck/) 
 [![Gmail Badge](https://img.shields.io/badge/-perry@werneck.eti.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:perry@werneck.eti.br)](mailto:perry@werneck.eti.br)
-[![Facebook Badge](https://img.shields.io/badge/-perry@werneck.eti.br-darkblue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/perry.werneck)](mailto:perry@werneck.eti.br)
+[![Facebook Badge](https://img.shields.io/badge/-Perry.Werneck-darkblue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/perry.werneck)](mailto:perry@werneck.eti.br)
 [![Twitter Badge](https://img.shields.io/badge/-perrywerneck-lightblue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/perrywerneck)](https://twitter.com/perrywerneck)
 
 <br />
