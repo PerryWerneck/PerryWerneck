@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on pw3270, Udjat and a lot of other coding activities (Yes, I know I need more focus)
 - 🤔 I’m looking for help with a better way to store and distribute pw3270 for windows installers
-- 🌱 I’m currently learning IOT and UX
+- 🌱 I’m currently learning music, IOT and UX
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He
 
