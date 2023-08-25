@@ -24,10 +24,12 @@ Buy me a coffee: https://ko-fi.com/perrywerneck
 ### Languages, systems and Tools:
 
 [![OpenSUSE Badge](https://img.shields.io/badge/-OpenSUSE-black?style=flat-square&logo=opensuse&logoColor=white&link=https://www.suse.com/)](https://www.suse.com/)
-<img align="left" alt="C" src="https://img.shields.io/badge/-C/C++-black?logo=C&style=for-the-badge" />
-<img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-black?logo=linux&style=for-the-badge" />
+[![Python Badge](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
+[![Linux Badge](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white&link=https://www.linux.org/)](https://www.linux.org/)
+[![C Badge](https://img.shields.io/badge/-C/C++-black?style=flat-square&logo=C&logoColor=white&link=https://pt.wikipedia.org/wiki/C++/)](https://pt.wikipedia.org/wiki/C++/)
+
+
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=for-the-badge" />
 <img align="left" alt="HTML-5" src="https://img.shields.io/badge/-HTML5-black?logo=html5&style=for-the-badge" />
 <img align="left" alt="LibreOffice" src="https://img.shields.io/badge/-LibreOffice-black?logo=libreoffice&style=for-the-badge" />
-<img align="left" alt="Python" src="https://img.shields.io/badge/-Python-black?logo=python&style=for-the-badge" />
 
